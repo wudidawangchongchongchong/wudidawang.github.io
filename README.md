@@ -1,3 +1,3 @@
 # wudidawang.github.io
 
-Just me learning the bitcoin and blockchain.
+Summary of my quant researcher internship.
